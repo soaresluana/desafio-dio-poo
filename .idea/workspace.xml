@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d4ee334-9ac1-4389-bd5d-48b4ed6a4de0" name="Changes" comment="abstraindo e encapsulando">
-      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676599295689</updated>
       <workItem from="1676599297067" duration="2331000" />
-      <workItem from="1676641428440" duration="5575000" />
+      <workItem from="1676641428440" duration="8793000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676599950473</created>
